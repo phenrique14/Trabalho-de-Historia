@@ -1,0 +1,322 @@
+CSS
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background-color: #697c4f;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    font-family: Georgia, serif;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #252525, #000000);
+    background-color: #333333; /* Cor de fundo sólida para suavizar o degradê */
+    min-height: 100vh;
+}
+
+section {
+    text-align: center; /* Centraliza o texto */
+}
+
+
+
+body {
+    font-family: Arial, sans-serif; /* Uma fonte mais comum e menos condensada */
+    color: #ffffff; /* Cor do texto cinza escuro */
+    text-align: justify; /* Justifica o texto para um visual mais profissional */
+}
+
+h2 {
+    color: #697c4f; /* Verde escuro */
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+
+.text {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    max-width: 500px; /* Define a largura máxima do texto */
+    background-color: #222; /* Adiciona um fundo cinza escuro */
+    padding: 20px; /* Adiciona um padding para criar um espaço interno */
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 20px; /* Adiciona um padding ao container */
+  }
+  
+  .image1 {
+    width: 25%; /* Define a largura da imagem como 25% do container */
+    height: auto;
+    margin-right: 30px; /* Reduzimos a margem direita para aproximar a imagem */
+}
+  
+
+
+
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .text2 {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    max-width: 60%;
+    padding: 20px;
+    background-color: #222;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+
+  #tabelaCastroAlves {
+    margin-top: 90px;
+  }
+  .container3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  .text3 {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    max-width: 60%;
+    padding: 20px;
+    background-color: #222;
+   
+  }
+  
+  h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+   
+  }
+  
+  h5 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    
+  }
+
+  .importancia {
+    text-align: center;
+    color: white;
+    max-width: 600px; /* Ajuste a largura máxima conforme necessário */
+    margin: 20px auto; /* Centraliza horizontalmente e adiciona margem superior */
+    font-size: 16px; /* Ajuste o tamanho da fonte */
+    line-height: 1.5;
+  }
+  
+  .importancia h6 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .impacto {
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .impacto h7 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .fases {
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .fases h2, .fases h3 {
+    margin-bottom: 10px;
+  }
+
+
+  table {
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.texto-sobre-poemas {
+    margin-left: 20px;
+    text-align: left;
+    font-style: italic;
+    color: #ffffff;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    border: 1px solid #697c4f;
+    padding: 8px;
+    text-align: left;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+
+.texto-centralizado {
+    color: white;
+    font-size: 18px; /* Ajuste o tamanho da fonte */
+    text-align: center;
+    max-width: 600px; /* Limita a largura máxima do texto */
+    margin: 0 auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #697c4f;
+}
+
+.texto-abaixo {
+    font-size: 18px;
+    margin: 30px auto;
+    max-width: 600px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #697c4f;
+}
+
+.texto-abaixo {
+    font-size: 18px;
+    margin: 30px auto;
+    max-width: 600px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ffffff;
+}
+
+th {
+    background-color: #697c4f;
+}
+
+.texto-abaixo {
+    font-size: 18px;
+    margin: 30px auto;
+    max-width: 600px;
+}
